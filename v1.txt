@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is for testing. Change 1 
+=======
+This is for testing. Change 3
+>>>>>>> 2f2fcc2c0c9b86c9700a94ebb373ef2e5fa7d215
